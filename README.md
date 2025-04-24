@@ -2,7 +2,7 @@
 
 Welcome to the **Amazon Sales Dashboard** repository! This interactive and visually engaging dashboard is created using **Power BI** and aims to provide insightful analytics for **Amazon's Global Sales**. This dashboard features interactive charts and detailed analysis of sales projections, market performance, and customer data.
 
-![Amazon Sales Dashboard](https://github.com/zobiabilal4/amazon-sales-dashboard.git)
+![Amazon Sales Dashboard](https://github.com/zobiabilal4/amazon-sales-dashboard/blob/master/Images/dashboard.png)
 
 ## 📊 Dashboard Features
 
